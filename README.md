@@ -2,11 +2,12 @@
 
 #### A dedicated data science student, driven to expand my knowledge and skills in the field and always striving to turn data into meaningful insights and impactful solutions.
 
-- 🔭 I’m currently studying at the University of Salford to earn a Masters in Data Science.
-- 🌱 I’m currently learning and getting proficient in Python, R, SQL and PowerBI for Data Visualisation and Data Story telling.
-- 👯 I’m looking to collaborate on Machine Learning and Data Visualisation.
-- 🤔 I'm open to Mentorship and Internship.
+
+- 🌱 I am constantly growing and getting proficient in Python, R, SQL and PowerBI for Data Visualisation and Data Story telling.
+- 👯 I am looking to collaborate on Machine Learning and Data Visualisation.
+- 🤔 I am open to Mentorship, Internship and Collaboration.
 - 📫 Please check out a few of my PowerBI projects here https://www.novypro.com/profile_projects/maunsoorah 
+- 📫 Here is a link to my profile Website https://sites.google.com/view/maunsoorah/
 - 😄 Pronouns: SHE/HER
 
 #### Skills and Languages:
