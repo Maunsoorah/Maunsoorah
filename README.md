@@ -1,6 +1,6 @@
-### Hello World!! 👋  I'm Monsurat Gbajabiamila
+### Hello World!! 👋  I'm M O Gbajabiamila
 
-#### A dedicated data science student, driven to expand my knowledge and skills in the field and always striving to turn data into meaningful insights and impactful solutions.
+#### A dedicated data science student - Mostly self learning, driven to expand my knowledge and skills in the field and always striving to turn data into meaningful insights and impactful solutions.
 
 
 - 🌱 I am constantly growing and getting proficient in Python, R, SQL and PowerBI for Data Visualisation and Data Story telling.
